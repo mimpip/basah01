@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://madetoto.fairmlbook.com/sitemap.xml
+Sitemap: http://madetoto.fairmlbook.org/sitemap.xml
